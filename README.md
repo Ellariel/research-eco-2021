@@ -1,2 +1,1 @@
-# research-eco-2022
-## Why going green feels good in Russia: implicit measurements with visual stimuli (pilot data)
+### These are final revision of supplementary materials to the article "Does going green feel good in Russia: implicit measurements with visual stimuli", mirroring data from https://osf.io/ayk28/files/osfstorage, preprint is available at 10.31219/osf.io/9ag46, pre-registration https://osf.io/z9d4x, published version is available at https://doi.org/10.1525/collabra.73637.
